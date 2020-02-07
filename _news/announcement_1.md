@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-Apr-15
 inline: true
 ---
 
-A simple inline announcement.
+*"A General Framework for Counterfactual Learning-to-Rank"* has been accepted as a long paper at the 2019 SIGIR conference
