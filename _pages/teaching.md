@@ -2,9 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+`UMass Amherst`  
+COMPSCI 186: Using Data Structures (Fall 2019)
+    
+    
+`Cornell`    
+CS 4780: Machine Learning for Intelligent Systems (Fall 2018)  
+  
+CS/INFO 3300: Data-driven Web Applications (Spring 2019)  
+  
+INFO 1998: Introduction to Machine Learning for Python (Spring 2017)
