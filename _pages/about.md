@@ -6,7 +6,7 @@ description: MS/PhD student @ UMass Amherst.
 
 profile:
   align: right
-  image: prof_pic2.jpg
+  image: prof_pic2.JPG
   address: >
     <p> </p>
     <p> </p>
