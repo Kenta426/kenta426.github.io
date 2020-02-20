@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Kenta Takatsu
-email: katakatsu@cs.umass.edu
+email: ktakatsu@cs.umass.edu
 description: > # this means to ignore newlines until "url:"
   Kenta Takatsu. MS/PhD student at UMass Amherst.
 footer_text: >
